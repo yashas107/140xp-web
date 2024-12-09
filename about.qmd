@@ -1,0 +1,47 @@
+---
+title: "About Me"
+page-layout: full
+---
+
+![Yashas Jain](profile-pi.jpeg){fig-align="center" width="200"}
+
+
+Hi, I'm **Yashas Jain** from Singapore and am a passionate software engineer and data enthusiast with a focus on building impactful projects and exploring innovative solutions.  
+
+With experience in software development, data science, and research, I strive to combine technical expertise with creativity to solve complex problems. I'm currently pursuing my interests in **statistics, big data, and machine learning**.
+
+---
+
+## Education
+
+- **UCLA**  
+  B.S. in Math of Computatons, Statistics & DS (double major)  
+
+---
+
+## Interests and Skills
+
+- **Interests**:  
+  - Machine Learning and AI  
+  - Data Visualization and Analysis  
+  - Software Development  
+  - Research in Computational Methods  
+
+- **Skills**:  
+  - Programming: Python, R, SQL, Java  
+  - Frameworks: TensorFlow, PyTorch  
+  - Tools: Git, Quarto, Tableau  
+  - Soft Skills: Problem-Solving, Collaboration  
+
+---
+
+## My Philosophy
+I believe in the power of **data-driven decision-making** and the importance of blending **statistical rigor** with **real-world impact**. I thrive on curiosity, continuous learning, and contributing to projects that matter.
+
+---
+
+## Beyond Work
+Outside of academics and work, I enjoy: \
+- Playing with my cat \
+- Traveling to explore new cultures and cuisines \ 
+- Playing chess and solving puzzles \

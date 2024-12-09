@@ -1,0 +1,39 @@
+---
+title: "Contact Me"
+page-layout: full
+---
+
+# Get in Touch
+
+I’d love to hear from you! Whether you have questions about my work, collaboration opportunities, or just want to say hi, feel free to reach out using the options below.
+
+---
+
+## Email
+- [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+## Connect Online
+- [GitHub](https://github.com/your-username)
+- [LinkedIn](https://linkedin.com/in/your-profile)
+
+---
+
+## Message Form
+If you'd like to leave a direct message, fill out the form below (requires integration with a service like [Formspree](https://formspree.io)):
+
+```html
+<form action="https://formspree.io/f/your-form-id" method="POST">
+  <label for="name">Name:</label><br>
+  <input type="text" id="name" name="name" required><br><br>
+  
+  <label for="email">Email:</label><br>
+  <input type="email" id="email" name="_replyto" required><br><br>
+  
+  <label for="message">Message:</label><br>
+  <textarea id="message" name="message" rows="5" required></textarea><br><br>
+  
+  <button type="submit">Send Message</button>
+</form>
+
